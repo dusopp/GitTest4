@@ -9,10 +9,8 @@ namespace ConsoleApplication1
     class NewFeature1
     {
 
-        public int Add() {
-            int x1 = 1;
-
-
+        public int Add(int x1) {
+            
             return x1;
         }
     }
