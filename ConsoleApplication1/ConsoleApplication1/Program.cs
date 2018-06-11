@@ -16,6 +16,8 @@ namespace ConsoleApplication1
             // I have edited code
 
             // code to  call newfeature1
+
+            // add code to call FEATURE2
         }
     }
 }
